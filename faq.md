@@ -4,7 +4,7 @@ RCJ Berlin 2022 · [Regeln](./regeln.md) · **[FAQ](./faq.md)**
 
 Wichtige Fragen mit Relevanz für alle Teams werden mit ihren Antworten hier gesammelt.
 
-https://robocup.de/de/rcj_regeln/
+[https://robocup.de/de/rcj_regeln/](https://robocup.de/de/rcj_regeln/)
 
 ## Gibt es im Parcours auch Torbögen? Welche Maße muss der Roboter erfüllen?
 
