@@ -1,4 +1,8 @@
+RCJ Berlin 2022 · **[Regeln](./regeln.md)** · [FAQ](./faq.md)
+
 # Regeln
+
+Stand: 25.01.2022
 
 Für das diesjährige Qualifikationsturnier (Berlin 2022) fließen folgende Elemente in die Wertung ein:
 * 2 Läufe per Video vorab (nur Parcours, ohne Evakuierungszone/Kugeln)
@@ -8,7 +12,7 @@ Für das diesjährige Qualifikationsturnier (Berlin 2022) fließen folgende Elem
 
 ## 2 Wertungsläufe (nur Parcours) per Video
 
-Am Montag (14.03.2022) **TODO: oder früher?** werden 3 Parcours (3x4 Kacheln) **TODO: oder 4 oder 4x4?** veröffentlicht, aus denen ihr für den Wettbewerb wählen könnt.
+Am Montag (14.03.2022) werden sowohl für RCJ Rescue Line als auch für RCJ Rescue Line Entry je 4 Parcours (3x4 Kacheln) veröffentlicht, aus denen ihr für den Wettbewerb wählen könnt.
 Bis zum Freitag (18.03.2022, 20:00) könnt ihr für 2 Läufe mit einem Parcours eurer Wahl ein Video hochladen.
 Es muss sich um 2 verschiedene aus den vorgeschlagenen Parcours handeln.
 Die Wertung erfolgt grundsätzlich nach den [offiziellen Regeln](https://robocup.de/de/rcj_regeln/).
@@ -47,7 +51,7 @@ Die Zeit läuft allerdings weiter.
 
 Bis Mittwoch (16.03.2022, 20:00) könnt ihr eine kurze Präsentation hochladen, in der ihr bitte auf folgende Themen und Fragen eingeht:
 
-* Wer hat welche Aufgabe im Team?
+* Wie ist die Aufgabenverteilung im Team?
 * Wie wird das Hindernis erkannt und umfahren?
 * Wie erkennt ihr Kreuzungen und wie entscheidet der Roboter, welchen Abzweig er wählen muss?
 * Wird die Rampe besonders behandelt (z. B. Extra-Sensoren, ein einzelner Programmabschnitt)? Falls ja, wie?
@@ -68,23 +72,32 @@ Bis Mittwoch (16.03.2022, 20:00) könnt ihr eine kurze Präsentation hochladen, 
 
 | Aufgabe      | Maximalpunktzahl | Zeit   |
 | ------------ | ---------------- | ------ |
-| Lauf 1 vorab | 130              | 4 min  |
-| Lauf 2 vorab | 130              | 4 min  |
-| Kugeln vorab | 226              | 4 min  |
-| Lauf live    | 130 + 226        | 5 min  |
+| Lauf 1 vorab | 150              | 4 min  |
+| Lauf 2 vorab | 150              | 4 min  |
+| Kugeln vorab | 260              | 4 min  |
+| Lauf live    | 150 + 260        | 5 min  |
 | Präsentation | 100              | 15 min |
 
 ## Hinweise zu Feld und Wertungselementen
 
-In den Parcours wird es keine Rampen und Schutt (debris) geben. **TODO: Speed Bumps?**
+In den Parcours wird es keine Rampen und Schutt (debris) geben.
+Speed Bumps sind weiß und haben ein Höhe zwischen 3 und 10 mm.
+Die Linie kann z. B. durch Klebeband über dem Speed Bump forgesetzt werden.
 Hindernisse sollen fest sein (zur Not durch Festhalten) und einen Durchmesser von etwa 7-15 cm haben.
 
-**TODO: LoP**
-
 Eine Materialliste mit benötigten Kacheln wird im Februar veröffentlicht.
+Wir versuchen die Kacheln für dieses virtuelle Qualifikationsturnier einfach zu halten und auch in Bezug auf die Details setzen wir hier keine hohen Anforderungen.
+Solltet ihr eine S-Kurve zum Beispiel - anders als abgebildet - nur gespiegelt haben, ist das für den Wettbewerb kein Problem.
 
-## Hochladen von Videos
+## Hochladen von Videos und Videokonferenz
 
-## Mögliche Verbindungsprobleme bei der Videokonferenz
+Wir stellen rechtzeitig einen Link zur Verfügung, über den alle nötigen Videos hochgeladen werden können.
+Ebenso kommunizieren wir im Voraus, wo die Videokonferenz am Samstag stattfinden wird, wie ihr daran teilnehmen könnt und wann welches Team den Lauf hat.
 
+Sollte es während der Videokonferenz zu unerwarteten Verbindungsausfällen kommen, kann der Lauf später wiederholt bzw. fortgesetzt werden.
 
+## Fehler, Ungenauigkeiten, Fragen
+
+Sollten euch Fehler oder Ungenauigkeiten auffallen, würden wir uns sehr freuen, wenn ihr uns darauf hinweist und wir das entsprechend anpassen können.
+Wenn es eurerseits zu Fragen kommen sollte, beantworten wir diese auch gerne.
+Schaut am besten zunächst in die [FAQ](./faq.md) und kontaktiert uns, falls ihr dort keine zufriedenstellende Antwort findet.
