@@ -1,8 +1,8 @@
-RCJ Berlin 2022 · **[Regeln](./regeln.md)** · [FAQ](./faq.md)
+RCJ Berlin 2022
 
 # Regeln
 
-Stand: 25.01.2022
+Stand: 14.02.2022
 
 Für das diesjährige Qualifikationsturnier (Berlin 2022) fließen folgende Elemente in die Wertung ein:
 * 2 Läufe per Video vorab (nur Parcours, ohne Evakuierungszone/Kugeln)
@@ -13,7 +13,7 @@ Für das diesjährige Qualifikationsturnier (Berlin 2022) fließen folgende Elem
 ## 2 Wertungsläufe (nur Parcours) per Video
 
 Am Montag (14.03.2022) werden sowohl für RCJ Rescue Line als auch für RCJ Rescue Line Entry je 4 Parcours (3x4 Kacheln) veröffentlicht, aus denen ihr für den Wettbewerb wählen könnt.
-Bis zum Freitag (18.03.2022, 20:00) könnt ihr für 2 Läufe mit einem Parcours eurer Wahl ein Video hochladen.
+Bis zum Donnerstag (17.03.2022, 18:00) könnt ihr für 2 Läufe mit einem Parcours eurer Wahl ein Video hochladen.
 Es muss sich um 2 verschiedene aus den vorgeschlagenen Parcours handeln.
 Die Wertung erfolgt grundsätzlich nach den [offiziellen Regeln](https://robocup.de/de/rcj_regeln/).
 Für diese Vorab-Videos gilt eine Maximalzeit von 4 Minuten für einen Lauf.
@@ -22,7 +22,7 @@ Bitte macht euch noch einmal mit den Regeln vertraut, da ihr in den Vorab-Videos
 
 ## Evakuierungszone per Video
 
-Ebenso könnt ihr bis zum Freitag (18.03.2022, 20:00) ein Video der Evakuierungszone hochladen.
+Ebenso könnt ihr bis zum Donnerstag (17.03.2022, 18:00) ein Video der Evakuierungszone hochladen.
 Bitte beachtet die Ankündigung, dass es keine Ausfahrt aus der Evakuierungszone gibt und auch kein Rescue-Kit.
 Für das Retten der Opfer gibt es eine Maximalzeit von 4 Minuten.
 Es gibt zwei lebende und ein totes Opfer.
@@ -49,7 +49,7 @@ Die Zeit läuft allerdings weiter.
 
 ## Kurzpräsentation
 
-Bis Mittwoch (16.03.2022, 20:00) könnt ihr eine kurze Präsentation hochladen, in der ihr bitte auf folgende Themen und Fragen eingeht:
+Bis Donnerstag (17.03.2022, 18:00) könnt ihr eine kurze Präsentation hochladen, in der ihr bitte auf folgende Themen und Fragen eingeht:
 
 * Wie ist die Aufgabenverteilung im Team?
 * Wie wird das Hindernis erkannt und umfahren?
@@ -62,11 +62,11 @@ Bis Mittwoch (16.03.2022, 20:00) könnt ihr eine kurze Präsentation hochladen, 
 
 | Zeitpunkt              | Termin                                    |
 | ---------------------- | ----------------------------------------- |
-| Mo., 14.03.2022, 08:00 | Parcoursauswahl wird verfügbar gemacht    |
-| Mi., 16.03.2022, 20:00 | Upload Video Kurzpräsentation             |
-| Fr., 18.03.2022, 20:00 | Upload Video 2 Läufe + 1 Evakuierungszone |
+| Mo., 14.03.2022, 15:00 | Parcoursauswahl wird veröffentlicht       |
+| Do., 17.03.2022, 18:00 | Upload Video Kurzpräsentation             |
+| Do., 17.03.2022, 18:00 | Upload Video 2 Läufe + 1 Evakuierungszone |
 | Sa., 19.03.2022        | 1 Live-Lauf pro Team (Videokonferenz)     |
-| So., 20.03.2022, ??:?? | Ergebnisse und Siegerehrung               |
+| So., 20.03.2022        | Ergebnisse und Siegerehrung               |
 
 ## Geschätzte Maximalpunktzahlen und Zeit pro Lauf/Video
 
@@ -85,7 +85,7 @@ Speed Bumps sind weiß und haben ein Höhe zwischen 3 und 10 mm.
 Die Linie kann z. B. durch Klebeband über dem Speed Bump forgesetzt werden.
 Hindernisse sollen fest sein (zur Not durch Festhalten) und einen Durchmesser von etwa 7-15 cm haben.
 
-Eine Materialliste mit benötigten Kacheln wird im Februar veröffentlicht.
+Zusätzlich zu diesen Regeln erhaltet ihr eine Materialliste, damit ihr schon vorab prüfen könnt, ob ihr die nötigen Kacheln für die Parcours habt.
 Wir versuchen die Kacheln für dieses virtuelle Qualifikationsturnier einfach zu halten und auch in Bezug auf die Details setzen wir hier keine hohen Anforderungen.
 Solltet ihr eine S-Kurve zum Beispiel - anders als abgebildet - nur gespiegelt haben, ist das für den Wettbewerb kein Problem.
 
@@ -100,4 +100,3 @@ Sollte es während der Videokonferenz zu unerwarteten Verbindungsausfällen komm
 
 Sollten euch Fehler oder Ungenauigkeiten auffallen, würden wir uns sehr freuen, wenn ihr uns darauf hinweist und wir das entsprechend anpassen können.
 Wenn es eurerseits zu Fragen kommen sollte, beantworten wir diese auch gerne.
-Schaut am besten zunächst in die [FAQ](./faq.md) und kontaktiert uns, falls ihr dort keine zufriedenstellende Antwort findet.
